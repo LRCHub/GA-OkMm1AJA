@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Remember Our Summer",
+  "base_artist": "Frogmonster",
+  "createdAt": "2025-12-02T09:54:20.688306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Remember Our Summer (Future Bounce VIP)",
+      "artist": "Frogmonster",
+      "has_synced": true,
+      "path": "select/01_Remember_Our_Summer_(Future_Bounce_VIP)_Frogmonster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Remember Our Summer",
+      "artist": "Frogmonster",
+      "has_synced": true,
+      "path": "select/02_Remember_Our_Summer_Frogmonster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Remember Our Summer",
+      "artist": "FrogMonster 蛙蛙",
+      "has_synced": true,
+      "path": "select/03_Remember_Our_Summer_FrogMonster_蛙蛙.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Remember Our Summer",
+      "artist": "Frogmonster",
+      "has_synced": true,
+      "path": "select/04_Remember_Our_Summer_Frogmonster.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Remember Our Summer (Orchestral) - Fifth Anniversary Edition",
+      "artist": "Frogmonster",
+      "has_synced": false,
+      "path": "select/05_Remember_Our_Summer_(Orchestral)_-_Fifth_Anniversary_Edition_Frogmonster.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remember Our Summer",
+      "artist": "Frogmonster",
+      "has_synced": false,
+      "path": "select/pl_01_Remember_Our_Summer_Frogmonster.txt"
+    }
+  ]
+}
